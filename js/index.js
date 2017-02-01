@@ -13,7 +13,7 @@ particlesJS("particles-js",
             ,"color":
             {
                 "value":
-                "#ffffff"
+                "#30c0d8"
             }
             , "shape":
                 {
@@ -56,7 +56,7 @@ particlesJS("particles-js",
                 {
                     "enable":true,
                     "distance":150,
-                    "color":"#ffffff",
+                    "color":"#30c0d8",
                     "1opacity":0.4,
                     "width":1},
             "move":
